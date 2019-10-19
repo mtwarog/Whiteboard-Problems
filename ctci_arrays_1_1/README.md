@@ -9,5 +9,5 @@ Output: true or false
 string = "straw"  
 unique(string) = true
 
-string = "staws"
+string = "staws"  
 unique(string) = false  
