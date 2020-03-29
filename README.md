@@ -1,4 +1,4 @@
-# Whiteboard Problem
+# Whiteboard Problems
 Set of problems commonly found on coding interviews or data structures and algorithms courses.  
   
 I tweet about some problems [here](https://twitter.com/MATwarog).  
